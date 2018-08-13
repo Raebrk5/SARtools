@@ -12,3 +12,7 @@ For TexSar members please download the TexSar specific version found within the 
 Extract the resulting file to AppData>QGIS>QGIS3>profiles>default>python>plugins as QRealTime
 For access to the Team's Google App Engine instance or troubleshooting please contact Brandee Knight via TexSar directory email (Austin Chapter) 
 ________________________________________________________________________________________________________________________________________
+Additional information can be found at: https://prezi.com/p/cvg4pcdqp6ut/ 
+Capstone Text: https://docs.google.com/document/d/1h_DvaaY_TUgmJqx_aKenlOthbqDnddXmfH_J2Iv6tNU/edit?usp=sharing
+Texsar Team page: https://www.texsar.org/
+Subject Profiles: https://www.dbs-sar.com/LPB/lpb.htm 
