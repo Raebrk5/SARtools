@@ -11,4 +11,4 @@ For general use the plugin search from QGIS and trouble shooting https://github.
 For TexSar members please download the TexSar specific version found within the TexSar Folder > "QRealTimeTexSAR.zip" 
 Extract the resulting file to AppData>QGIS>QGIS3>profiles>default>python>plugins as QRealTime
 For access to the Team's Google App Engine instance or troubleshooting please contact Brandee Knight via TexSar directory email (Austin Chapter) 
-
+________________________________________________________________________________________________________________________________________
