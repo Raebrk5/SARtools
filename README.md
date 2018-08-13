@@ -2,7 +2,7 @@
 
 Tools attached were submitted as  partial fulfilment of a Master of Science in Geospatial Technologies. 
 
-The .model3 tools have been built to supliment useage of QRealTime plugin interface which imports the submission of collected data from ODK Collect forms. 
+The .model3 tools have been built to supplement usage of QRealTime plugin interface which imports the submission of collected data from ODK Collect forms. 
 
 To use the tools download the Tools_sar.zip. Unzip the contents once you have located your QGIS3>profiles>default>processing>models folder. 
 
