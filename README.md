@@ -14,6 +14,8 @@ For access to the Team's Google App Engine instance or troubleshooting please co
 ________________________________________________________________________________________________________________________________________
 .model3 Tools: 
 
+DISCLAIMER: These are ment to provide guiance using historic data that is similar to a profile of missing subjects. While the science behind the tools have been researched and are emperically logical, humans, especially when in distress, are not logical actors. The results of these tools and data are not a map to missing people they are merely tools and guidance. To understand the logic and limitations of the tools please read and refer to "Missing Person Behavior" by R. Koester. 
+
 Clue Density Raster: Runs a hot spot analysis based upon the attributed value of the points submitted through the ODK form. This analysis can help to identify clustering of reports in areas. Clustering will allow for assets to be deployed to the areas with the highest likelihood of a subject being located. 
 
 Probability of Area Buffer: Buffer rings using Euclidean distance statistics specific to the missing person’s profile using IPP as center. Profiles are found in “Missing Person Behavior” by Robert Koester. The rings created will have a percent of historical finds within them. 25%, 50%, 75% and 95% areas will be created for the last known or last seen point feature. The feature can be a point or a line dependent on the information known. 
